@@ -54,7 +54,7 @@
     * Video processing takes usually 2-3 hours from the end of the session.
     * Video quality: SD with copyright notice in bottom. Trainer video is not recorded.
     * Accessible from the same device, same browser, same chrome profile only. Choose one and donot change until end of the course.
-    * All recordings will be available in portal till 27-Mar-2025. Videos are set to auto-expire on given date.
+    * All recordings will be available in portal till 17-Mar-2025. Videos are set to auto-expire on given date.
 * Classwork demos and notes:
     * GitHub Repo: https://github.com/sunbeam-modular/python-o-13
     * Repository is accessible to everyone for first two days.
