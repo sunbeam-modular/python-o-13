@@ -63,3 +63,7 @@
 * Live code sharing
     * Available at Sunbeam Student portal during the lecture session.
     * Students are encouraged to try the codes on your computer (copy+paste is also available 😊).
+
+### Certification
+* At the end of the course, there will be online MCQ exam (available only for one day).
+* Students attempting that exam and filled the feedback form will receive the "participation" certificate (will not include your grade/score of exam) in your mailbox.
